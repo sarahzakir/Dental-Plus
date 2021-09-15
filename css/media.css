@@ -1,0 +1,180 @@
+@media(max-width:991px){
+    
+    .header_one img {
+        padding-left: 0px;
+    }
+    .header p {
+        font-size: 12px;
+    }
+    .banner img {
+        margin-top: 65px;
+        margin-left: 30px;
+    }
+    .banner_section h1 {
+        font-size: 25px;
+    }
+    .recent_image img {
+        height: 50%;
+        width: 225px;
+    }
+    .client_images {
+        margin-left: 19px;
+    }
+
+}
+
+@media(max-width:767px){
+
+    .navbar-brand{
+        display: inherit;
+    }
+    .header_one {
+        display: none;
+    }
+    .app_button button {
+        display: none;
+    }
+    .navbar-brand img{
+        height: 30px;
+    }
+    .banner_section h2 {
+        font-size: 26px;
+        margin-top: 65px;
+    }
+    .banner_section h1 {
+        font-size: 24px;
+    }
+    .banner img{
+        display: none;
+    }
+    .banner {
+        text-align: center;
+    }
+    .banner_section h2{
+        margin-top: 118px;
+    }
+    .agency_part img{
+        width: 70%;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+    .agency_info img{
+        width: 20%;
+        margin-right: 55px;
+    }
+    .agency_info {
+        text-align: center;
+    }
+    .doctor_img img {
+        width: 100%;
+    }
+    .client_images {
+        margin-left: 20px;
+    }
+    .price {
+        margin-bottom: 15px;
+    }
+
+}
+
+@media(max-width:575px){
+  
+    .banner_section h2 {
+        margin-top: 172px;
+    }
+    .btn-book_now {
+        margin-bottom: 0px;
+        margin-left: 5px;
+    }
+    .agency_part{
+        text-align: center;
+    }
+    .agency_part img {
+        width: 70%;
+        margin-bottom: 15px;
+    }
+    .agency_info img {
+        width: 8%;
+        margin: 0;
+    }
+    .doctor_img img {
+        width: 100%;
+    }
+    .service_text h2 {
+        text-align: inherit;
+        padding-left: 10px;
+    }
+    .price_info {
+        margin-bottom: 30px;
+    }
+    .client_images {
+        margin-left: 70px;
+    }
+    .recent_image img {
+        height: 80%;
+        width: 90px;
+    }
+}
+
+@media(max-width:397px){
+
+    .banner_section h2 {
+        font-size: 17px;
+    }
+}
+
+@media(max-width:351px){
+
+    .client_images {
+        margin-left: 65px;
+        top: 240px;
+    }
+
+}
+
+@media(max-width:385px) and (min-width:321px){
+
+    .banner_section h1 {
+        font-size: 22px;
+    }
+}
+
+@media(max-width:320px){
+
+    .banner_section h1 {
+        font-size: 15px;
+    }
+    .banner img {
+        margin-top: 150px;
+    }
+    .btn-learn_more {
+        margin-bottom: 5px;
+    }
+    .follow ul {
+        padding: 0;
+    }
+    .footer_text h4 {
+        font-size: 11px;
+    }
+    .footer_text p {
+        font-size: 11px;
+    }
+    .client_images {
+        margin-left: 50px;
+    }
+    .agency_part img {
+        width: 100%;
+        margin: 0;
+    }
+    .agency_text h2 {
+        font-size: 20px;
+    }
+    .agency_text p {
+        font-size: 15px;
+    }
+    .agency_info img {
+        width: 15%;
+        margin-right: 15px;
+    }
+}
+
